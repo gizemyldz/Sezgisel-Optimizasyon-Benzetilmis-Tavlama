@@ -1,6 +1,8 @@
 # Sezgisel-Optimizasyon-Benzetilmis-Tavlama
 Benzetilmiş tavlama tekniği ile gezgin satıcı problemi çözümü
 
+Kullanılan dil-python
+
 YÖNTEM
 
 Benzetilmiş tavlama, eniyileme problemi için tasarlanmış olasılıksal yaklaşımlı bir algoritmadır. Diğer olasılıksal yaklaşımlar gibi (genetik algoritmalar, tabu arama vb.) en iyi çözümün en kısa zamanda bulunmasını hedefler. Algoritmanın çalışması aslında isminin de geldiği demir tavlama işlemine benzer. Yani nasıl demir tavlama işlemi sırasında bir demir parçayı ısıtıp sonra soğumaya bırakıyorsak, herhangi bir sayısal ölçüme de benzeri yaklaşım uygulanabilir.
